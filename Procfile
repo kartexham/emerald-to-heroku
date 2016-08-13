@@ -1,1 +1,1 @@
-web: http-server web/ -p $PORT
+web: http-server web/ -p $PORT -c -1
