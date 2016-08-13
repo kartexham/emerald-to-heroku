@@ -1,0 +1,22 @@
+{
+  "name": "value-your-vote",
+  "version": "1.0.0",
+  "description": "Value your vote",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdDeAlmeidaJr/emerald-to-heroku.git"
+  },
+  "author": "Ed de Almeida",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdDeAlmeidaJr/emerald-to-heroku/issues"
+  },
+  "homepage": "https://github.com/EdDeAlmeidaJr/emerald-to-heroku#readme",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
