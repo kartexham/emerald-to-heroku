@@ -1,3 +1,11 @@
 {
-	"name": "Value Your Vote"
+	"name": "Value Your Vote",
+	"description": "hosting app to Ruby gems like uspoliticians.",
+	"keywords": [
+		"ruby",
+		"gem",
+		"gems",
+		"politics"
+	],
+	"website": "http://value-your-vote.herokuapp.com"
 }
