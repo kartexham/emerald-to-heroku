@@ -1,0 +1,13 @@
+{
+	"name": "Value Your Vote",
+	"description": "hosting app to Ruby gems like uspoliticians.",
+	"keywords": [
+		"ruby",
+		"gem",
+		"gems",
+		"politics"
+	],
+	"website": "http://value-your-vote.herokuapp.com",
+	"repository": "https://github.com/EdDeAlmeidaJr/emerald-to-heroku",
+	"success_url": "/web/index.html"
+}
